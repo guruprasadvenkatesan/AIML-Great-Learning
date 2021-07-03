@@ -1,4 +1,4 @@
-COURSE PROJECTS
+#Artificial Intelligence and Machine Learning Projects
 
 
 Sarcasm Detection

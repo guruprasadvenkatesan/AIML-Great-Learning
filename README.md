@@ -1,5 +1,5 @@
 COURSE PROJECTS
-Dec'20
+
 
 Sarcasm Detection
 Course Natural Language Processing
@@ -10,7 +10,7 @@ Skills and Tools
 
 GloVe, Classication, LSTM
 
-Nov'20
+
 
 Sentiment Analysis
 Course Natural Language Processing
@@ -21,7 +21,7 @@ Skills and Tools
 
 RNN Word embedding LSTM Classification
 
-Oct'20
+
 
 Face Recognition
 Course Computer Vision
@@ -32,7 +32,7 @@ Skills and Tools
 
 Computer Vision, Keras, CNN, Siamese Networks, Triplet loss
 
-Oct'20
+
 
 Face mask segmentation
 Course Computer Vision
@@ -43,7 +43,7 @@ Skills and Tools
 
 Computer Vision, CNN, Transfer Learning, Object detection
 
-Aug'20
+
 
 Implementing a Image classification neural network to classify Street House View Numbers
 Course Introduction to Neural Network and Deep Learning
@@ -54,7 +54,7 @@ Skills and Tools
 
 Neural Networks, Deep Learning, Keras, Image Recognition
 
-Jul'20
+
 
 Product Recommendation Systems
 Course Recommendation Systems
@@ -65,7 +65,7 @@ Skills and Tools
 
 Collaborative Filtering, Recommender Systems, Python
 
-Jun'20
+
 
 Predicting the Strength of high performance concrete
 Course Featurization, Model Selection & Tuning
@@ -76,7 +76,6 @@ Skills and Tools
 
 Regression, Decision trees, feature engineering
 
-Jun'20
 
 Classifying silhouettes of vehicles
 Course Unsupervised Learning
@@ -87,7 +86,7 @@ Skills and Tools
 
 Support Vector Machines, Principal Component Analysis, Classification
 
-May'20
+
 
 Predicting the term-deposit subscription
 Course Ensemble Techniques
@@ -98,7 +97,7 @@ Skills and Tools
 
 Classification, Decision Tress, Ensemble Techniques
 
-Apr'20
+
 
 Identifying potential customers for loans
 Course Supervised Learning
@@ -109,7 +108,7 @@ Skills and Tools
 
 Logistic Regression, KNN, Classification
 
-Mar'20
+
 
 Health Insurance
 Course Applied Statistics

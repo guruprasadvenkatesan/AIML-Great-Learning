@@ -1,5 +1,5 @@
-#Artificial Intelligence and Machine Learning Projects
-
+**Artificial Intelligence and Machine Learning Projects
+**
 
 Sarcasm Detection
 Course Natural Language Processing
